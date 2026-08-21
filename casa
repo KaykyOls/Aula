@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .Quartos{background-color: aquamarine;
+    }
+    .Tempia{
+        background-color:blue;
+        color: #6530B8;
+    }
+    </style>
+</head>
+<body>
+    <h1>Partes da Casa</h1>
+    <p class="Tempia">Cozinha</p>
+    <p>Sala de Estar</p>
+    <p class="Quartos">Quarto 1</p>
+    <p class="Quartos">Quarto 2</p>
+    <p class="Quartos">Quarto 3</p>
+    <p class="Tempia">Banheiro</p>
+    <p class="Tempia">Area de Serviço</p>
+</body>
+</html>
