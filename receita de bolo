@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://tse3.mm.bing.net/th/id/OIP.bCOjUPbY72t_P-Qroz4rXgHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
+
+<p style="color: blue;" id="Ingrediente 1">Chocolate</p>
+<p style="color: green;" id="Ingrediente 2">Chocolate</p>
+<p style="color: red;" id="Ingrediente 3">Chocolate</p>
+<p style="color: yellow;" id="Ingrediente 4">Chocolate</p>
+
+
+
+</body>
+</html>
